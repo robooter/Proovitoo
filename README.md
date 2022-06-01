@@ -1,6 +1,7 @@
 # Selgitus
 
 Valisin variant B. Saadan päringu Amazoni. Selle asemel, et iga aja tagant saata kasutaja otsing, saadan ainult ühe korra - kasutaja soovil.
+Kulus 2h - enamasti resursside lugemine
 
 # Nõuded
 
