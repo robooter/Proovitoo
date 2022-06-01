@@ -13,6 +13,7 @@ pages_to_display = input("Mitut lehekülge kuvada(1-3): ")
 pages_to_display = int(pages_to_display) + 1
 if pages_to_display > 4 or pages_to_display < 1:
     print('Kasutage vahemikku 1-3')
+    exit()
 base_url = 'https://www.amazon.com/s?k={0}'.format(search_item)
 
 #Data processing
