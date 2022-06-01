@@ -1,6 +1,6 @@
 # Selgitus
 
-Valisin variant B. Selle asemel, et iga aja tagant saata kasutaja otsing, saadan ainult ühe korra - kasutaja soovil.
+Valisin variant B. Saadan päringu Amazoni. Selle asemel, et iga aja tagant saata kasutaja otsing, saadan ainult ühe korra - kasutaja soovil.
 
 # Nõuded
 
